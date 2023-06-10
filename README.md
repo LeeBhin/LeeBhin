@@ -1,3 +1,6 @@
+<h2>Hi, I'm JS lover</h2>
+
+
 <div align="left">
   
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeBhin&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/LeeBhin)
@@ -10,7 +13,7 @@
 </a>
 <br>
 
-## 💻 Blog 💻
+## 💻 Blog
 <div style="display:flex; flex-direction:row;">
     <a href="https://easyhomputer.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -20,7 +23,7 @@
 </div><br>
 
  
-## 📞 Contact 📞
+## 📞 Contact
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/2_been_06/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -30,7 +33,7 @@
     </a>
 </div><br>
     
-## 🔨 What I Use 🔨
+## 🔨 What I Use
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
