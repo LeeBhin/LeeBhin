@@ -49,3 +49,24 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  
+## ✅ Certificate
+### 국가기술
+<a href=""><img src="https://img.shields.io/badge/컴퓨터활용능력 1급-A4373A?style=flat&logo=microsoftaccess&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/컴퓨터활용능력 2급-217346?style=flat&logo=microsoftexcel&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/정보처리기능사-00BCB4?style=flat&logo=thealgorithms&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/웹디자인기능사-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/정보기기운용기능사-1BA0D7?style=flat&logo=cisco&logoColor=white"/></a>  
+### kpc
+<a href=""><img src="https://img.shields.io/badge/ITQ PPT-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/ITQ 한글-2B579A?style=flat&logo=microsoftword&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/ITQ Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/GTQ 1급-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/></a>
+### KAIT
+<a href=""><img src="https://img.shields.io/badge/DIAT PPT-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/DIAT Word-2B579A?style=flat&logo=microsoftword&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/DIAT Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/DIAT Search-0076D6?style=flat&logo=internetexplorer&logoColor=white"/></a>
+
+
+  
