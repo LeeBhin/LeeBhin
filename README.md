@@ -9,16 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeBhin&exclude_repo=dkssud8150.github.io&layout=compact&theme=merko"/>
 </a>
 <br>
-
-## 💻 Blog
-<div style="display:flex; flex-direction:row;">
-    <a href="https://smcempty.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-  </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=smcempty&theme=default)](https://smcempty.tistory.com/)
-</div><br>
-
  
 ## 📞 Contact
 <div style="display:flex; flex-direction:row;">
@@ -40,7 +30,6 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   
 ## ✅ Certificate
 ### 국가기술
