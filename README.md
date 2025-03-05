@@ -1,4 +1,4 @@
-# Hello World! 👋
+# console.log("Hello World! 👋")
 
 > JavaScript enthusiast who loves building things with code.
 
@@ -24,8 +24,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeeBhin&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeBhin&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeeBhin&show_icons=true&theme=tokyonight"/>
 </div>
 
 ## 📫 Let's Connect!
