@@ -76,6 +76,22 @@ const LeeBhin = {
   </tr>
 </table>
 
+## 🔧 Open Source Contributions
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/cytoscape/cytoscape.js/pull/3432">
+        <img src="https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github" />
+      </a>
+      <br/><br/>
+      <b>cytoscape/cytoscape.js</b>
+      <br/>
+      <sub>fix: resolve TypeError in updateBoundsFromMiter for polygon shapes</sub>
+    </td>
+  </tr>
+</table>
+
 ## 📊 GitHub Stats
 
 <div align="center">
